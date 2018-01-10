@@ -1,3 +1,3 @@
-HI HI
+hi hi hi
 
-Example on git add ....
+using notepad++ as my text editor
