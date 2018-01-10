@@ -1,0 +1,3 @@
+HI HI
+
+Example on git add ....
